@@ -1,0 +1,13 @@
+{
+    "connectionString": "mongodb://localhost/nodedb-test",
+    "secret": "secret",
+    "emailFrom": "admin@example.com",
+    "smtpOptions": {
+        "host": "[ENTER YOUR OWN STMP OPTIONS OR CREATE FREE TEST ACCOUNT IN https://ethereal.email/]",
+        "port": 587,
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    }
+}
